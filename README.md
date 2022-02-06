@@ -5,10 +5,12 @@ A game made in vanilla JS
 
 topics of this tutorial / game:
 
-*event listeners
-*array manipulation
-*pulling data from JavaScript object
+* event listeners
+* array manipulation
+* pulling data from JavaScript object
 
-*create a player character and move it around canvas with keyboard
-*draw game background on canvas
-*set custom FPS for our game (date time)
+* create a player character and move it around canvas with keyboard
+* draw game background on canvas
+* set custom FPS for our game (date time)
+
+* every spritesheet provided has been squooshed to minise the size of assets..  
